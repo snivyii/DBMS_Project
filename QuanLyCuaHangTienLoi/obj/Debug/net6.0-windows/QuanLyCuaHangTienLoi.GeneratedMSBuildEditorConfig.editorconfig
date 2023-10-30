@@ -1,0 +1,17 @@
+is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = QuanLyCuaHangTienLoi
+build_property.ProjectDir = C:\Study\TÀI LIỆU HỌC TẬP\Tài liệu học tập đại học (HK1 năm 3)\Hệ quản trị cơ sở dữ liệu\Project\Code 29.10.2023\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\
